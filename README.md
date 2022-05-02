@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with Countries Platform
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to run project
--> install node v16 or greater on yur machine
--> navigate to project directory
--> Install all the dependent packages first using command `npm run install`
--> Use this command to run project locally `npm run start`
+* install node v16 or greater on yur machine
+* navigate to project directory
+* Install all the dependent packages first using command `npm run install`
+* Use this command to run project locally `npm run start`
 
 ## Available Scripts
 

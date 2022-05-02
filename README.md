@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to run project
+-> install node v16 or greater on yur machine
+-> navigate to project directory
+-> Install all the dependent packages first using command `npm run install`
+-> Use this command to run project locally `npm run start`
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,6 +19,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `npm test -- --coverage`
+
+Creates test coverage for whole project
+
 
 ### `npm test`
 

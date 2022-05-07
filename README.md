@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to run project
-* Install node v16 or greater on yur machine
+* Install node v16 or greater on your machine
 * Navigate to project directory
 * Install all the dependent packages first using command `npm run install`
 * Use this command to run project locally `npm run start`
